@@ -10,6 +10,7 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 - GLPI
 - Zabbix
 - Nextcloud
+- Sauvegarde avec VEEAM BACKUP
 
 ## Mise en place
 
