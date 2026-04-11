@@ -29,7 +29,7 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ### Sécurité
 - HTTPS
-- VPN
+- VPN Nomade
 
 ## Résultat
 Infrastructure complète fonctionnelle avec supervision et sécurisation.
