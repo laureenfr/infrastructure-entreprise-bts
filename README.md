@@ -20,8 +20,10 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ### Active Directory
 - Création domaine
+  
 ![AD1](AD1.png)
 - AD primaire + secondaire (redondance)
+  
 ![AD2](AD2.png)
 
 ### Services
