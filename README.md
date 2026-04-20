@@ -97,12 +97,18 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 ## Outils d'administration Windows
 - Console mmc.exe
 
+![consolemmc](consolemmc.png)
+
 ## Outils de connexion à distance
 - MRemoteNG
 
 ![mremoteng](mremoteng.png)
 
 - WinSCP
+
+![winscp1](winscp1.png)
+
+![winscp2](winscp2.png)
 
 ## Résultat
 Infrastructure complète fonctionnelle avec supervision et sécurisation.
