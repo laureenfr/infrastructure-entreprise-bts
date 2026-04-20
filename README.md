@@ -31,6 +31,9 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 - Nextcloud
 
 ![TUnextcloud1](TUnextcloud1.png)
+
+![TUnextcloud2](TUnextcloud2.png)
+
 - Sauvegarde avec VEEAM BACKUP
 
 ## Mise en place
