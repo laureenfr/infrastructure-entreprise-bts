@@ -34,7 +34,9 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 - Sauvegarde avec VEEAM BACKUP
 
 ![TUWB1](TUBW1.png)
+
 ![TUWB2](TUWB2.png)
+
 ![TUWB3](TUWB3.png)
 
 ## Mise en place
