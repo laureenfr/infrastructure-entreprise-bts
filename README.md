@@ -53,6 +53,9 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ### Services
 - GLPI
+  
+![glpi](glpi.png)
+
 - Zabbix (supervision)
 
 ![serviceszabbix1](serviceszabbix1.png)
