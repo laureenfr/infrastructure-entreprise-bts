@@ -33,8 +33,10 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 - HTTPS
 - VPN Nomade
 
-## Administration
+## Outils d'administration
 - Console mmc.exe
+
+## Outils de connexion
 - MRemoteNG
 
 ## Résultat
