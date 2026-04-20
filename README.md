@@ -7,6 +7,11 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 - pfSense (firewall, NAT, VPN)
 - Windows Server (Active Directory, DNS, DHCP)
 - Linux (Debian)
+
+![TUrouteur1](TUrouteur1)
+
+![TUrouteur2](TUrouteur2)
+
 - GLPI
 
 ![GLPI1](GLPI1.png]
