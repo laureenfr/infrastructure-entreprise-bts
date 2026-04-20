@@ -91,7 +91,7 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 - VPN IPSEC
 
-![securiteVPNipsec1](securiteVPNipsec1.png)
+![securitéVPNipsec1](securitéVPNipsec1.png)
 
 
 ## Outils d'administration Windows
