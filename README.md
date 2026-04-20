@@ -8,9 +8,9 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 - Windows Server (Active Directory, DNS, DHCP)
 - Linux (Debian)
 
-![TUrouteur1](TUrouteur1)
+![TUrouteur1](TUrouteur1.png)
 
-![TUrouteur2](TUrouteur2)
+![TUrouteur2](TUrouteur2.png)
 
 - GLPI
 
