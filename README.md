@@ -20,7 +20,7 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ![TUzabbix1](TUzabbix1.png)
 
-![TUzabbix2](TUzabbix2.png]
+![TUzabbix2](TUzabbix2.png)
 
 - Nextcloud
 - Sauvegarde avec VEEAM BACKUP
