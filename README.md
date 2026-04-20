@@ -14,9 +14,6 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 - Linux (Debian)
 
-![TUrouteur1](TUrouteur1.png)
-
-![TUrouteur2](TUrouteur2.png)
 
 - GLPI
 
@@ -42,6 +39,10 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 - Configuration pfSense
 - Routage et relais DHCP
 
+![TUrouteur1](TUrouteur1.png)
+
+![TUrouteur2](TUrouteur2.png)
+
 ### Active Directory
 - Création domaine
   
@@ -53,11 +54,36 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 ### Services
 - GLPI
 - Zabbix (supervision)
+
+![serviceszabbix1](serviceszabbix1.png)
+
 - Nextcloud (avec LDAP)
+
+![servicesnextcloud1](servicesnextcloud1.png)
+
+![servicesnextcloud2](servicesnextcloud2.png)
 
 ### Sécurité
 - HTTPS
+
+![securiteHTTPS1](securiteHTTPS1.png)
+
+![securiteHTTPS2](securiteHTTPS2.png)
+
+![securiteHTTPS3](securiteHTTPS3.png)
+
 - VPN Nomade
+
+![securiteVPN](securiteVPN.png)
+
+![securiteVPN1](securiteVPN1.png)
+
+![securiteVPN2](securiteVPN2.png)
+
+- VPN IPSEC
+
+![securiteVPNipsec1](securiteVPNipsec1.png)
+
 
 ## Outils d'administration Windows
 - Console mmc.exe
