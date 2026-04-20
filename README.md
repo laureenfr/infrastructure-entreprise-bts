@@ -8,6 +8,9 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 - Windows Server (Active Directory, DNS, DHCP)
 - Linux (Debian)
 - GLPI
+
+![GLPI1](GLPI1.png]
+
 - Zabbix
 - Nextcloud
 - Sauvegarde avec VEEAM BACKUP
