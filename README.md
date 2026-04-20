@@ -5,6 +5,9 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ## Technologies utilisées
 - pfSense (firewall, NAT, VPN)
+
+![TUpfsense1](TUpfsense1.png)
+
 - Windows Server (Active Directory, DNS, DHCP)
 - Linux (Debian)
 
