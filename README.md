@@ -65,13 +65,13 @@ Plateforme complète de gestion, supervision et collaboration déployée et fonc
 
 - GLPI
 
-Déploiement et utilisation d'un gestion de parc informatique 
+Mise en place et utilisation d’un outil de gestion de parc informatique
 
 ![glpi](glpi.png)
 
 - Zabbix (supervision)
 
-Déploiement et utilisation d'une plateforme de supervision
+Mise en place et utilisation d’une solution de supervision avec Zabbix
   
 ![TUzabbix1](TUzabbix1.png)
 
@@ -93,8 +93,6 @@ Veeam Backup & Replication est le moteur de sauvegarde et restauration de Veeam 
 
 ![securiteHTTPS1](securiteHTTPS1.png)
 
-![securiteHTTPS2](securiteHTTPS2.png)
-
 ![securiteHTTPS3](securiteHTTPS3.png)
 
 - VPN
@@ -103,8 +101,6 @@ VPN IPsec
 
 Mise en place d'une solution permettant la connexion sécurisée entre deux sites distants 
 
-![servicesvpnipsec1](servicesvpnipsec1.png)
-
 ![servicesvpnipsec3](servicesvpnipsec3.png)
 
 VPN Nomade
@@ -112,10 +108,6 @@ VPN Nomade
 Mise en place d'une solution garantissant des accès sécurisés à un
 service, internes au périmètre de sécurité de
 l'organisation
-
-![securiteVPN](securiteVPN.png)
-
-![securiteVPN1](securiteVPN1.png)
 
 ![securiteVPN2](securiteVPN2.png)
 
