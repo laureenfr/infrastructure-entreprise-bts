@@ -51,7 +51,12 @@ Configuration routeur
 Infrastructure réseau sécurisée avec filtrage et routage fonctionnel.
 
 - Configuration pfSense
-- INstallation relais DHCP
+
+![TUpfsense4](TUpfsense4.png)
+
+![TUpfsense5](TUpfsense5.png)
+
+- Installation relais DHCP
 
 ![TUrouteur2](TUrouteur2.png)
 
