@@ -18,9 +18,11 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ### Réseau 
 
+Réseau sécurisé avec filtrage des flux et routage fonctionnel entre sous-réseaux.
+
 - Configuration PfSense
 
-Utilisation d'un logiciel open source de sécurité réseau qui transforme un ordinateur en pare-feu sophistiqué
+Configuration d’un pare-feu pfSense permettant de filtrer les flux réseau et sécuriser l’infrastructure.
 
 ![TUpfsense1](TUpfsense1.png)
 
@@ -40,14 +42,14 @@ Haute disponibilité (CARP)
 
 - Relais DHCP
 
-Installation d'un périphérique qui transfère les paquets DHCP entre les clients DHCP et les serveurs DHCP entre différents sous-réseaux
+Installation d'un périphérique qui transfère les paquets DHCP entre les clients DHCP et les serveurs DHCP entre différents sous-réseaux.
 
 ![TUrouteur2](TUrouteur2.png)
 
 
 ### Active Directory
 
-Gestion centralisée des utilisateurs et des ressources avec redondance.
+Infrastructure AD redondante permettant une gestion centralisée et résiliente des utilisateurs.
 
 - Création domaine
   
@@ -59,11 +61,17 @@ Gestion centralisée des utilisateurs et des ressources avec redondance.
 
 ### Services
 
+Plateforme complète de gestion, supervision et collaboration déployée et fonctionnelle.
+
 - GLPI
+
+Déploiement et utilisation d'un gestion de parc informatique 
 
 ![glpi](glpi.png)
 
 - Zabbix (supervision)
+
+Déploiement et utilisation d'une plateforme de supervision
   
 ![TUzabbix1](TUzabbix1.png)
 
@@ -113,13 +121,11 @@ l'organisation
 
 ### Système d'exploitation utilisés 
 
-- Windows Server Core (Active Directory, DNS, DHCP)
+- Windows : CLient et Server Core (Active Directory, DNS, DHCP)
 
-La version Server Core de Microsoft sans interface graphique, conçue pour les environnements d'entreprise critiques nécessitant des performances et une sécurité renforcée.
+La version Server Core de Microsoft sans interface graphique est conçue pour les environnements d'entreprise critiques nécessitant des performances et une sécurité renforcée.
 
-- Linux (Debian)
-
-- Windows client
+- Linux (Debian 12)
 
 ### Outils d'administration centralisée Windows
 
