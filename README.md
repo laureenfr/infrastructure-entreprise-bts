@@ -42,8 +42,6 @@ La version Server Core de Microsoft sans interface graphique, conçue pour les e
 
 ![TUnextcloud1](TUnextcloud1.png)
 
-![TUnextcloud2](TUnextcloud2.png)
-
 ## Sauvegarde 
 
 Veeam Backup & Replication est le moteur de sauvegarde et restauration de Veeam Data Platform
