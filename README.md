@@ -8,6 +8,26 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ![TUpfsense1](TUpfsense1.png)
 
+![TUpfsense2](TUpfsense2.png)
+
+![TUpfsense3](TUpfsense3.png)
+
+![TUpfsense4](TUpfsense4.png)
+
+![TUpfsense5](TUpfsense5.png)
+
+![TUpfsense6](TUpfsense6.png)
+
+![TUpfsense7](TUpfsense7.png)
+
+![TUpfsense8](TUpfsense8.png)
+
+![TUpfsense9](TUpfsense9.png)
+
+![TUpfsense10](TUpfsense10.png)
+
+![TUpfsense11](TUpfsense11.png)
+
 - Windows Server (Active Directory, DNS, DHCP)
 
 ![TUwindowsserver1](TUwindowsserver1.png)
