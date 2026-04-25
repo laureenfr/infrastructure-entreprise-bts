@@ -4,9 +4,13 @@
 Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO SISR.
 
 ## Technologies utilisées
-- pfSense (firewall, NAT, VPN)
+- pfSense
+
+Tableau de bord
 
 ![TUpfsense1](TUpfsense1.png)
+
+Règles de Pare-feu
 
 ![TUpfsense2](TUpfsense2.png)
 
@@ -22,9 +26,13 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ![TUpfsense8](TUpfsense8.png)
 
+Aliases
+
 ![TUpfsense9](TUpfsense9.png)
 
 ![TUpfsense10](TUpfsense10.png)
+
+NAT (Network Address Traduction)
 
 ![TUpfsense11](TUpfsense11.png)
 
