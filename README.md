@@ -16,6 +16,9 @@ Tableau de bord
 
 - Linux (Debian)
 
+Configuration routeur
+
+![TUrouteur1](TUrouteur1.png)
 
 - GLPI
 
@@ -48,9 +51,7 @@ Tableau de bord
 Infrastructure réseau sécurisée avec filtrage et routage fonctionnel.
 
 - Configuration pfSense
-- Routage et relais DHCP
-
-![TUrouteur1](TUrouteur1.png)
+- INstallation relais DHCP
 
 ![TUrouteur2](TUrouteur2.png)
 
