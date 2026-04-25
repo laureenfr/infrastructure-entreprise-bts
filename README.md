@@ -1,5 +1,5 @@
-# Infrastructure-Entreprise-BTS
-
+# Conception d’une infrastructure systèmes & réseaux d’entreprise (Projet BTS)
+ 
 ## Objectif
 Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO SISR.
 
@@ -15,26 +15,6 @@ Règles de Pare-feu
 ![TUpfsense2](TUpfsense2.png)
 
 ![TUpfsense3](TUpfsense3.png)
-
-![TUpfsense4](TUpfsense4.png)
-
-![TUpfsense5](TUpfsense5.png)
-
-![TUpfsense6](TUpfsense6.png)
-
-![TUpfsense7](TUpfsense7.png)
-
-![TUpfsense8](TUpfsense8.png)
-
-Aliases
-
-![TUpfsense9](TUpfsense9.png)
-
-![TUpfsense10](TUpfsense10.png)
-
-NAT (Network Address Traduction)
-
-![TUpfsense11](TUpfsense11.png)
 
 - Windows Server (Active Directory, DNS, DHCP)
 
@@ -70,6 +50,9 @@ NAT (Network Address Traduction)
 ## Mise en place
 
 ### Réseau
+
+Infrastructure réseau sécurisée avec filtrage et routage fonctionnel.
+
 - Configuration pfSense
 - Routage et relais DHCP
 
@@ -78,6 +61,7 @@ NAT (Network Address Traduction)
 ![TUrouteur2](TUrouteur2.png)
 
 ### Active Directory
+
 - Création domaine
   
 ![AD1](AD1.png)
@@ -129,6 +113,9 @@ NAT (Network Address Traduction)
 
 
 ## Outils d'administration Windows
+
+Gestion centralisée des utilisateurs et des ressources avec redondance.
+
 - Console mmc.exe
 
 ![consolemmc](consolemmc.png)
