@@ -6,6 +6,7 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ## Architecture réseau
 
+![schéma](schéma.png)
 
 ## Technologies utilisées
 
