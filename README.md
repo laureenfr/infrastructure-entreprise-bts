@@ -137,7 +137,7 @@ Utilisation d'un outil pour administrer et centraliser les serveurs via RDP, SSH
 
 - WinSCP
 
-Utilisation de transfert de fichiers entre un ordinateur local et un serveur distant 
+Utilisation d'un outil de transfert de fichiers entre un ordinateur local et un serveur distant 
 
 ![winscp1](winscp1.png)
 
