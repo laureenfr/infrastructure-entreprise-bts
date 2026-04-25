@@ -1,4 +1,4 @@
-# infrastructure-entreprise-bts
+# Infrastructure-Entreprise-BTS
 
 ## Objectif
 Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO SISR.
