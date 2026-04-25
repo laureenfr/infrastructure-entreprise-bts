@@ -6,7 +6,7 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ## Technologies utilisées
 
-- pfSense (firewall, NAT, VPN)
+- PfSense (firewall, NAT, VPN)
 - Windows Server (Active Directory, DNS, DHCP)
 - Linux (Debian)
 - GLPI
@@ -18,7 +18,7 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ### Réseau 
 
-- PfSense
+- Configuration PfSense
 
 Utilisation d'un logiciel open source de sécurité réseau qui transforme un ordinateur en pare-feu sophistiqué
 
@@ -34,11 +34,11 @@ Haute disponibilité (CARP)
 
 ![TUpfsense2](TUpfsense2.png) ![TUpfsense3](TUpfsense3.png)
 
-Routage
+- Routage
   
 ![TUrouteur1](TUrouteur1.png)
 
-Relais DHCP
+- Relais DHCP
 
 Installation d'un périphérique qui transfère les paquets DHCP entre les clients DHCP et les serveurs DHCP entre différents sous-réseaux
 
@@ -60,6 +60,9 @@ Gestion centralisée des utilisateurs et des ressources avec redondance.
 ### Services
 
 - GLPI
+
+![glpi](glpi.png)
+
 - Zabbix (supervision)
   
 ![TUzabbix1](TUzabbix1.png)
@@ -76,9 +79,9 @@ Veeam Backup & Replication est le moteur de sauvegarde et restauration de Veeam 
 
 ![TUWB3](TUWB3.png)
 
-# Sécurité
+### Sécurité
 
-## HTTPS
+- HTTPS
 
 ![securiteHTTPS1](securiteHTTPS1.png)
 
@@ -86,9 +89,9 @@ Veeam Backup & Replication est le moteur de sauvegarde et restauration de Veeam 
 
 ![securiteHTTPS3](securiteHTTPS3.png)
 
-## VPN
+- VPN
 
-- VPN IPsec
+VPN IPsec
 
 Mise en place d'une solution permettant la connexion sécurisée entre deux sites distants 
 
@@ -96,7 +99,7 @@ Mise en place d'une solution permettant la connexion sécurisée entre deux site
 
 ![servicesvpnipsec3](servicesvpnipsec3.png)
 
-- VPN Nomade
+VPN Nomade
 
 Mise en place d'une solution garantissant des accès sécurisés à un
 service, internes au périmètre de sécurité de
@@ -108,7 +111,7 @@ l'organisation
 
 ![securiteVPN2](securiteVPN2.png)
 
-## Système d'exploitation utilisés 
+### Système d'exploitation utilisés 
 
 - Windows Server Core (Active Directory, DNS, DHCP)
 
@@ -118,23 +121,23 @@ La version Server Core de Microsoft sans interface graphique, conçue pour les e
 
 - Windows client
 
-## Outils d'administration centralisée Windows
+### Outils d'administration centralisée Windows
 
-### Console mmc.exe
+- Console mmc.exe
 
 Utilisation d'un gestionnaire de console virtuelle incorporée dans Microsoft Windows 
 
 ![consolemmc](consolemmc.png)
 
-## Outils de connexion à distance
+### Outils de connexion à distance
 
-### MRemoteNG
+- MRemoteNG
 
 Utilisation d'un outil pour administrer et centraliser les serveurs via RDP, SSH, VNC, etc
 
 ![mremoteng](mremoteng.png)
 
-### WinSCP
+- WinSCP
 
 Utilisation de transfert de fichiers entre un ordinateur local et un serveur distant 
 
