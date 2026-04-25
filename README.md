@@ -1,68 +1,44 @@
 # Conception d’une infrastructure systèmes & réseaux d’entreprise (Projet BTS)
  
-# Objectif
+## Objectif
 
 Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO SISR.
 
-# Technologies utilisées
+## Technologies utilisées
 
-## PfSense
+- pfSense (firewall, NAT, VPN)
+- Windows Server (Active Directory, DNS, DHCP)
+- Linux (Debian)
+- GLPI
+- Zabbix
+- Nextcloud
+- VPN
+
+## Mise en place
+
+### Réseau 
+
+- PfSense
 
 Utilisation d'un logiciel open source de sécurité réseau qui transforme un ordinateur en pare-feu sophistiqué
 
-### Tableau de bord
-
 ![TUpfsense1](TUpfsense1.png)
 
-## Windows Server Core (Active Directory, DNS, DHCP)
-
-La version Server Core de Microsoft sans interface graphique, conçue pour les environnements d'entreprise critiques nécessitant des performances et une sécurité renforcée.
-
-## Linux (Debian)
-
-### Configuration routeur
-
-![TUrouteur1](TUrouteur1.png)
-
-# Mise en place 
-
-## Serveurs
-
-### GLPI (gestion de parc informatique)
-
-![GLPI1](GLPI1.png)
-
-### Zabbix
-
-![TUzabbix1](TUzabbix1.png)
-
-### Nextcloud
-
-![TUnextcloud1](TUnextcloud1.png)
-
-## Sauvegarde 
-
-Veeam Backup & Replication est le moteur de sauvegarde et restauration de Veeam Data Platform
-
-### VEEAM BACKUP
-
-![TUWB3](TUWB3.png)
-
-## Réseau
-
-Infrastructure réseau sécurisée avec filtrage et routage fonctionnel.
-
-### Configuration pfSense
-
-- Règles
+Règles
 
 ![TUpfsense4](TUpfsense4.png)
 
 ![TUpfsense5](TUpfsense5.png)
 
-- Haute disponibilité (CARP)
+Haute disponibilité (CARP)
+
+![TUpfsense2](TUpfsense2.png) ![TUpfsense3](TUpfsense3.png)
+
+- Routage
   
-### Installation relais DHCP
+![TUrouteur1](TUrouteur1.png)
+
+- Relais DHCP
 
 Installation d'un périphérique qui transfère les paquets DHCP entre les clients DHCP et les serveurs DHCP entre différents sous-réseaux
 
@@ -81,33 +57,24 @@ Gestion centralisée des utilisateurs et des ressources avec redondance.
   
 ![AD2](AD2.png)
 
-# Services
+### Services
 
-Déploiement et sécurisation d'une plateforme de supervision et de gestion de parc informatique avec mise en conformité HTTPS
-
-## GLPI
+- GLPI
+- Zabbix (supervision)
   
-![glpi](glpi.png)
+![TUzabbix1](TUzabbix1.png)
 
-## Zabbix (supervision)
-
-![TUzabbix2](TUzabbix2.png)
-
-## Nextcloud (avec LDAP)
+- Nextcloud (avec LDAP)
 
 Mise en place d'un environnement de travail collaboratif 
 
-![servicesnextcloud1](servicesnextcloud1.png)
+![TUnextcloud1](TUnextcloud1.png)
 
-![servicesnextcloud2](servicesnextcloud2.png)
+- Sauvegarde (avec VEEAM BACKUP)
 
-## VPN IPsec
+Veeam Backup & Replication est le moteur de sauvegarde et restauration de Veeam Data Platform
 
-Mise en place d'une solution permettant la connexion sécurisée entre deux sites distants 
-
-![servicesvpnipsec1](servicesvpnipsec1.png)
-
-![servicesvpnipsec3](servicesvpnipsec3.png)
+![TUWB3](TUWB3.png)
 
 # Sécurité
 
@@ -119,7 +86,17 @@ Mise en place d'une solution permettant la connexion sécurisée entre deux site
 
 ![securiteHTTPS3](securiteHTTPS3.png)
 
-## VPN Nomade
+## VPN
+
+- VPN IPsec
+
+Mise en place d'une solution permettant la connexion sécurisée entre deux sites distants 
+
+![servicesvpnipsec1](servicesvpnipsec1.png)
+
+![servicesvpnipsec3](servicesvpnipsec3.png)
+
+- VPN Nomade
 
 Mise en place d'une solution garantissant des accès sécurisés à un
 service, internes au périmètre de sécurité de
@@ -131,12 +108,17 @@ l'organisation
 
 ![securiteVPN2](securiteVPN2.png)
 
-## VPN IPSEC
+## Système d'exploitation utilisés 
 
-![securitéVPNipsec1](securitéVPNipsec1.png)
+- Windows Server Core (Active Directory, DNS, DHCP)
 
+La version Server Core de Microsoft sans interface graphique, conçue pour les environnements d'entreprise critiques nécessitant des performances et une sécurité renforcée.
 
-# Outils d'administration Windows
+- Linux (Debian)
+
+- Windows client
+
+## Outils d'administration centralisée Windows
 
 ### Console mmc.exe
 
