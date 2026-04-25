@@ -18,13 +18,13 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ### Réseau 
 
-- PfSense
+#### PfSense
 
 Utilisation d'un logiciel open source de sécurité réseau qui transforme un ordinateur en pare-feu sophistiqué
 
 ![TUpfsense1](TUpfsense1.png)
 
-Règles
+- Règles
 
 ![TUpfsense4](TUpfsense4.png)
 
