@@ -1,6 +1,7 @@
 # Conception d’une infrastructure systèmes & réseaux d’entreprise (Projet BTS)
  
 # Objectif
+
 Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO SISR.
 
 # Technologies utilisées
@@ -13,7 +14,9 @@ Utilisation d'un logiciel open source de sécurité réseau qui transforme un or
 
 ![TUpfsense1](TUpfsense1.png)
 
-## Windows Server (Active Directory, DNS, DHCP)
+## Windows Server Core (Active Directory, DNS, DHCP)
+
+La version Server Core de Microsoft sans interface graphique, conçue pour les environnements d'entreprise critiques nécessitant des performances et une sécurité renforcée.
 
 ![TUwindowsserver1](TUwindowsserver1.png)
 
@@ -45,6 +48,8 @@ Utilisation d'un logiciel open source de sécurité réseau qui transforme un or
 
 ## Sauvegarde 
 
+Veeam Backup & Replication est le moteur de sauvegarde et restauration de Veeam Data Platform
+
 ### VEEAM BACKUP
 
 ![TUWB1](TUWB1.png)
@@ -68,6 +73,8 @@ Infrastructure réseau sécurisée avec filtrage et routage fonctionnel.
 - Haute disponibilité (CARP)
   
 ### Installation relais DHCP
+
+Installation d'un périphérique qui transfère les paquets DHCP entre les clients DHCP et les serveurs DHCP entre différents sous-réseaux
 
 ![TUrouteur2](TUrouteur2.png)
 
@@ -124,6 +131,10 @@ Mise en place d'une solution permettant la connexion sécurisée entre deux site
 
 ## VPN Nomade
 
+Mise en place d'une solution garantissant des accès sécurisés à un
+service, internes au périmètre de sécurité de
+l'organisation
+
 ![securiteVPN](securiteVPN.png)
 
 ![securiteVPN1](securiteVPN1.png)
@@ -139,13 +150,15 @@ Mise en place d'une solution permettant la connexion sécurisée entre deux site
 
 ### Console mmc.exe
 
-Utilisation gestionnaire de console virtuelle incorporée dans Microsoft Windows 
+Utilisation d'un gestionnaire de console virtuelle incorporée dans Microsoft Windows 
 
 ![consolemmc](consolemmc.png)
 
 ## Outils de connexion à distance
 
 ### MRemoteNG
+
+Utilisation d'un outil pour administrer et centraliser les serveurs via RDP, SSH, VNC, etc
 
 ![mremoteng](mremoteng.png)
 
@@ -158,9 +171,11 @@ Utilisation de transfert de fichiers entre un ordinateur local et un serveur dis
 ![winscp2](winscp2.png)
 
 # Résultat
+
 Infrastructure complète fonctionnelle avec supervision et sécurisation.
 
 # Compétences
+
 - Administration systèmes Windows/Linux
 - Réseaux
 - Cybersécurité
