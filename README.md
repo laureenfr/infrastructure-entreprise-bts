@@ -50,10 +50,6 @@ Veeam Backup & Replication est le moteur de sauvegarde et restauration de Veeam 
 
 ### VEEAM BACKUP
 
-![TUWB1](TUWB1.png)
-
-![TUWB2](TUWB2.png)
-
 ![TUWB3](TUWB3.png)
 
 ## Réseau
