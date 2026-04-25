@@ -36,8 +36,6 @@ La version Server Core de Microsoft sans interface graphique, conçue pour les e
 
 ![TUzabbix1](TUzabbix1.png)
 
-![TUzabbix2](TUzabbix2.png)
-
 ### Nextcloud
 
 ![TUnextcloud1](TUnextcloud1.png)
@@ -93,7 +91,7 @@ Déploiement et sécurisation d'une plateforme de supervision et de gestion de p
 
 ## Zabbix (supervision)
 
-![serviceszabbix1](serviceszabbix1.png)
+![TUzabbix2](TUzabbix2.png)
 
 ## Nextcloud (avec LDAP)
 
