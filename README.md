@@ -18,13 +18,13 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ### Réseau 
 
-#### PfSense
+- PfSense
 
 Utilisation d'un logiciel open source de sécurité réseau qui transforme un ordinateur en pare-feu sophistiqué
 
 ![TUpfsense1](TUpfsense1.png)
 
-- Règles
+Règles
 
 ![TUpfsense4](TUpfsense4.png)
 
@@ -34,11 +34,11 @@ Haute disponibilité (CARP)
 
 ![TUpfsense2](TUpfsense2.png) ![TUpfsense3](TUpfsense3.png)
 
-- Routage
+Routage
   
 ![TUrouteur1](TUrouteur1.png)
 
-- Relais DHCP
+Relais DHCP
 
 Installation d'un périphérique qui transfère les paquets DHCP entre les clients DHCP et les serveurs DHCP entre différents sous-réseaux
 
