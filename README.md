@@ -10,11 +10,6 @@ Tableau de bord
 
 ![TUpfsense1](TUpfsense1.png)
 
-Règles de Pare-feu
-
-![TUpfsense2](TUpfsense2.png)
-
-
 - Windows Server (Active Directory, DNS, DHCP)
 
 ![TUwindowsserver1](TUwindowsserver1.png)
