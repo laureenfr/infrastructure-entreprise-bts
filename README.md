@@ -2,7 +2,7 @@
  
 ## Objectif
 
-Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO SISR.
+Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO SISR, visant à reproduire un environnement professionnel réel.
 
 ## Technologies utilisées
 
@@ -65,25 +65,25 @@ Plateforme complète de gestion, supervision et collaboration déployée et fonc
 
 - GLPI
 
-Mise en place et utilisation d’un outil de gestion de parc informatique
+Mise en place et utilisation d’un outil de gestion de parc informatique.
 
 ![glpi](glpi.png)
 
 - Zabbix (supervision)
 
-Mise en place et utilisation d’une solution de supervision avec Zabbix
+Mise en place et utilisation d’une solution de supervision avec Zabbix.
   
 ![TUzabbix1](TUzabbix1.png)
 
 - Nextcloud (avec LDAP)
 
-Mise en place d'un environnement de travail collaboratif 
+Mise en place d’un environnement de travail collaboratif avec authentification via LDAP.
 
 ![TUnextcloud1](TUnextcloud1.png)
 
 - Sauvegarde (avec VEEAM BACKUP)
 
-Veeam Backup & Replication est le moteur de sauvegarde et restauration de Veeam Data Platform
+Mise en place d’une solution de sauvegarde avec Veeam Backup & Replication pour assurer la protection des données.
 
 ![TUWB3](TUWB3.png)
 
@@ -113,7 +113,7 @@ l'organisation
 
 ### Système d'exploitation utilisés 
 
-- Windows : CLient et Server Core (Active Directory, DNS, DHCP)
+- Windows : Client et Server Core (Active Directory, DNS, DHCP)
 
 La version Server Core de Microsoft sans interface graphique est conçue pour les environnements d'entreprise critiques nécessitant des performances et une sécurité renforcée.
 
@@ -143,11 +143,11 @@ Utilisation de transfert de fichiers entre un ordinateur local et un serveur dis
 
 ![winscp2](winscp2.png)
 
-# Résultat
+## Résultat
 
 Infrastructure complète fonctionnelle avec supervision et sécurisation.
 
-# Compétences
+## Compétences
 
 - Administration systèmes Windows/Linux
 - Réseaux
