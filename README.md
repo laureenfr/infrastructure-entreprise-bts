@@ -4,6 +4,9 @@
 
 Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO SISR, visant à reproduire un environnement professionnel réel.
 
+## Architecture réseau
+
+
 ## Technologies utilisées
 
 - PfSense (firewall, NAT, VPN)
