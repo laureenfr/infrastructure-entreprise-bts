@@ -49,11 +49,11 @@ Installation d'un périphérique qui transfère les paquets DHCP entre les clien
 
 Gestion centralisée des utilisateurs et des ressources avec redondance.
 
-#### Création domaine
+- Création domaine
   
 ![AD1](AD1.png)
 
-#### AD primaire + secondaire (redondance)
+- AD primaire + secondaire (redondance)
   
 ![AD2](AD2.png)
 
