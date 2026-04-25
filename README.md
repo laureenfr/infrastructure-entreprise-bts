@@ -14,7 +14,6 @@ Règles de Pare-feu
 
 ![TUpfsense2](TUpfsense2.png)
 
-![TUpfsense3](TUpfsense3.png)
 
 - Windows Server (Active Directory, DNS, DHCP)
 
