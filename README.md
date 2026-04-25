@@ -7,6 +7,8 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ## PfSense
 
+Utilisation d'un logiciel open source de sécurité réseau qui transforme un ordinateur en pare-feu sophistiqué
+
 ### Tableau de bord
 
 ![TUpfsense1](TUpfsense1.png)
