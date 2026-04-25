@@ -51,11 +51,11 @@ Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO 
 
 ![TUWB3](TUWB3.png)
 
-### Réseau
+## Réseau
 
 Infrastructure réseau sécurisée avec filtrage et routage fonctionnel.
 
-#### Configuration pfSense
+### Configuration pfSense
 
 - Règles
 
@@ -65,44 +65,54 @@ Infrastructure réseau sécurisée avec filtrage et routage fonctionnel.
 
 - Haute disponibilité (CARP)
   
-#### Installation relais DHCP
+### Installation relais DHCP
 
 ![TUrouteur2](TUrouteur2.png)
 
 
-#### Active Directory
+### Active Directory
 
-- Création domaine
+Gestion centralisée des utilisateurs et des ressources avec redondance.
+
+#### Création domaine
   
 ![AD1](AD1.png)
-- AD primaire + secondaire (redondance)
+
+#### AD primaire + secondaire (redondance)
   
 ![AD2](AD2.png)
 
-### Services
+# Services
 
-- GLPI
+Déploiement et sécurisation d'une plateforme de supervision et de gestion de parc informatique avec mise en conformité HTTPS
+
+## GLPI
   
 ![glpi](glpi.png)
 
-- Zabbix (supervision)
+## Zabbix (supervision)
 
 ![serviceszabbix1](serviceszabbix1.png)
 
-- Nextcloud (avec LDAP)
+## Nextcloud (avec LDAP)
+
+Mise en place d'un environnement de travail collaboratif 
 
 ![servicesnextcloud1](servicesnextcloud1.png)
 
 ![servicesnextcloud2](servicesnextcloud2.png)
 
-- VPN IPsec
+## VPN IPsec
+
+Mise en place d'une solution permettant la connexion sécurisée entre deux sites distants 
 
 ![servicesvpnipsec1](servicesvpnipsec1.png)
 
 ![servicesvpnipsec3](servicesvpnipsec3.png)
 
-### Sécurité
-- HTTPS
+# Sécurité
+
+## HTTPS
 
 ![securiteHTTPS1](securiteHTTPS1.png)
 
@@ -110,7 +120,7 @@ Infrastructure réseau sécurisée avec filtrage et routage fonctionnel.
 
 ![securiteHTTPS3](securiteHTTPS3.png)
 
-- VPN Nomade
+## VPN Nomade
 
 ![securiteVPN](securiteVPN.png)
 
@@ -118,34 +128,37 @@ Infrastructure réseau sécurisée avec filtrage et routage fonctionnel.
 
 ![securiteVPN2](securiteVPN2.png)
 
-- VPN IPSEC
+## VPN IPSEC
 
 ![securitéVPNipsec1](securitéVPNipsec1.png)
 
 
-## Outils d'administration Windows
+# Outils d'administration Windows
 
-Gestion centralisée des utilisateurs et des ressources avec redondance.
+### Console mmc.exe
 
-- Console mmc.exe
+Utilisation gestionnaire de console virtuelle incorporée dans Microsoft Windows 
 
 ![consolemmc](consolemmc.png)
 
 ## Outils de connexion à distance
-- MRemoteNG
+
+### MRemoteNG
 
 ![mremoteng](mremoteng.png)
 
-- WinSCP
+### WinSCP
+
+Utilisation de transfert de fichiers entre un ordinateur local et un serveur distant 
 
 ![winscp1](winscp1.png)
 
 ![winscp2](winscp2.png)
 
-## Résultat
+# Résultat
 Infrastructure complète fonctionnelle avec supervision et sécurisation.
 
-## Compétences
+# Compétences
 - Administration systèmes Windows/Linux
 - Réseaux
 - Cybersécurité
