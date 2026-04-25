@@ -28,7 +28,7 @@ La version Server Core de Microsoft sans interface graphique, conçue pour les e
 
 ## Serveurs
 
-### GLPI
+### GLPI (gestion de parc informatique)
 
 ![GLPI1](GLPI1.png)
 
