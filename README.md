@@ -1,42 +1,49 @@
 # Conception d’une infrastructure systèmes & réseaux d’entreprise (Projet BTS)
  
-## Objectif
+# Objectif
 Réalisation d’une infrastructure d’entreprise dans le cadre de mon BTS SIO SISR.
 
-## Technologies utilisées
-- pfSense
+# Technologies utilisées
 
-Tableau de bord
+## PfSense
+
+### Tableau de bord
 
 ![TUpfsense1](TUpfsense1.png)
 
-- Windows Server (Active Directory, DNS, DHCP)
+## Windows Server (Active Directory, DNS, DHCP)
 
 ![TUwindowsserver1](TUwindowsserver1.png)
 
-- Linux (Debian)
+## Linux (Debian)
 
-Configuration routeur
+### Configuration routeur
 
 ![TUrouteur1](TUrouteur1.png)
 
-- GLPI
+# Mise en place 
+
+## Serveurs
+
+### GLPI
 
 ![GLPI1](GLPI1.png)
 
-- Zabbix
+### Zabbix
 
 ![TUzabbix1](TUzabbix1.png)
 
 ![TUzabbix2](TUzabbix2.png)
 
-- Nextcloud
+### Nextcloud
 
 ![TUnextcloud1](TUnextcloud1.png)
 
 ![TUnextcloud2](TUnextcloud2.png)
 
-- Sauvegarde avec VEEAM BACKUP
+## Sauvegarde 
+
+### VEEAM BACKUP
 
 ![TUWB1](TUWB1.png)
 
@@ -44,23 +51,26 @@ Configuration routeur
 
 ![TUWB3](TUWB3.png)
 
-## Mise en place
-
 ### Réseau
 
 Infrastructure réseau sécurisée avec filtrage et routage fonctionnel.
 
-- Configuration pfSense
+#### Configuration pfSense
+
+- Règles
 
 ![TUpfsense4](TUpfsense4.png)
 
 ![TUpfsense5](TUpfsense5.png)
 
-- Installation relais DHCP
+- Haute disponibilité (CARP)
+  
+#### Installation relais DHCP
 
 ![TUrouteur2](TUrouteur2.png)
 
-### Active Directory
+
+#### Active Directory
 
 - Création domaine
   
@@ -70,6 +80,7 @@ Infrastructure réseau sécurisée avec filtrage et routage fonctionnel.
 ![AD2](AD2.png)
 
 ### Services
+
 - GLPI
   
 ![glpi](glpi.png)
