@@ -18,8 +18,6 @@ Utilisation d'un logiciel open source de sécurité réseau qui transforme un or
 
 La version Server Core de Microsoft sans interface graphique, conçue pour les environnements d'entreprise critiques nécessitant des performances et une sécurité renforcée.
 
-![TUwindowsserver1](TUwindowsserver1.png)
-
 ## Linux (Debian)
 
 ### Configuration routeur
